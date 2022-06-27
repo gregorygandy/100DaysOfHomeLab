@@ -3,7 +3,7 @@
 
 Goals:
 
-- Learn Docker with [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches) nad []()
+- Learn Docker with [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches)
 - Internet Speed Monitor
 - Learn Vim
 - Create homelab dashboard
