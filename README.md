@@ -17,7 +17,7 @@ Goals:
 
 Hardware:
 
-![289723735_1161232374656389_7526963349368867042_n](https://user-images.githubusercontent.com/86977121/175852040-55688fb5-9fa3-4ab3-8ddf-9af1aa258f40.jpg)
+![289723735_1161232374656389_7526963349368867042_n](https://user-images.githubusercontent.com/86977121/175857376-3f0cc78f-a2b7-4787-bee8-062c89cf7058.jpg)
 
 - M1 Mac Mini with 8GB RAM and 256GB SSD. 2 CPUs, 2GB of RAM, 512MB of swap, and 24GB of disk allocated for Docker.
 - Raspberry Pi 4 Model B - 2 GB RAM
