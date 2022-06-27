@@ -13,7 +13,7 @@ Goals:
 - Create selfhosting dashboard with Dashy; [Nasa Astronomy Photo of the Day](https://apod.nasa.gov/apod/) as background image
 - Display dashboard on bookshelf with ViewSonic monitor and Raspberry Pi
 - Move gregorygandy.com from Linode to self hosting from home
-- Learn advanced networkings skills
+- Learn advanced networking skills
 
 Hardware:
 
