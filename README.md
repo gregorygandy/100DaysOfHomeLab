@@ -17,11 +17,11 @@ Goals:
 
 Hardware:
 
-![289723735_1161232374656389_7526963349368867042_n](https://user-images.githubusercontent.com/86977121/175857472-ea95e912-3d0f-4056-a767-c4c3f0e51f3f.jpg)
-
 - M1 Mac Mini with 8GB RAM and 256GB SSD. 2 CPUs, 2GB of RAM, 512MB of swap, and 24GB of disk allocated for Docker.
 - Raspberry Pi 4 Model B - 2 GB RAM
 - 24 inch ViewSonic Monitor
+
+![289723735_1161232374656389_7526963349368867042_n](https://user-images.githubusercontent.com/86977121/175857472-ea95e912-3d0f-4056-a767-c4c3f0e51f3f.jpg)
 
 Software (tentative):
 
